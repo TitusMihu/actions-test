@@ -1,0 +1,14 @@
+{
+    "name": "client/project-test",
+    "type": "project",
+    "description": "Test project for Localstack demo",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.3",
+        "symfony/console": "^7.2"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
